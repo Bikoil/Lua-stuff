@@ -1,3 +1,20 @@
-# Welcome to my main lua repository!
-# this is the workspace for me as a lua dev
-# some of the this repository code can be found on other platforms like Gitlab and Gitkraken and Replit and thats where i run my code and get AI support.
+# This is My lua main project! 
+
+# What is it exactly for?
+# # # # #
+# Well I am trying to replicate some commands from the linux terminal to lua.
+
+# Why am i making this?
+# # # # #
+# mostly as a fun personal project.
+
+# where do i run my code?
+# # # # #
+# I run my code on replit as the project has some elements from its AI.
+
+# Where are the places that this is hosted in?
+# # # # #
+# Github - Gitlab - Gitkraken 
+
+
+
