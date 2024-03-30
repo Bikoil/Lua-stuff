@@ -1,10 +1,10 @@
-# This is My lua main project! 
+# This is My lua second branch!
 
-
+*Please keep in mind most of these are in BETA or ALPHA so they may not work properly*
 
 # What is it exactly for?
 
-- Well I am trying to replicate some commands from the linux terminal to lua.
+- For testing my personal projects
 
 # Why am i making this?
 
