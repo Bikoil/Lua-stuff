@@ -15,7 +15,7 @@
 - I run my code on replit as the project has some elements from its AI.
 
 # Where are the places that this is hosted in
-
+*Keep in mind that github is more up to date than any of the others.*
 - Github - Gitlab - Gitkraken 
 
 

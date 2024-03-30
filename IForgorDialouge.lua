@@ -37,10 +37,10 @@ local function dialouge()
 
 
 --TODO:
---Complete the Dialouge from the "Let'       s start" after the player says yes.
+--Complete the Dialouge from the "Let's start" after the player says yes.
 --Make the game more interactive
---Fix the game not working after typin       g a single response in output
---Make a custom response when the word is not recognised
+--Fix the game not working after typing a single response in output
+--Make a custom response when a word is not recognised
 
 
 
