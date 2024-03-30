@@ -4,7 +4,7 @@
 
 # What is it exactly for?
 
-- For testing my personal projects
+- For testing my lua files before putting them into the main branch
 
 # Why am i making this?
 
