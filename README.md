@@ -6,13 +6,9 @@
 
 - For testing my lua files before putting them into the main branch
 
-# Why am i making this?
+# Where do i run my code?
 
-- mostly as a fun personal project.
-
-# where do i run my code?
-
-- I run my code on replit as the project has some elements from its AI.
+- I run my code on replit as the project has some elements from its AI, I also use Termux and other types of terminal emulators.
 
 # Where are the places that this is hosted in
 *Keep in mind that github is more up to date than any of the others.*
