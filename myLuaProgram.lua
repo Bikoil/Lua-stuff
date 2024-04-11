@@ -1,3 +1,8 @@
+--INTRODUCTION--
+
+--This is kind of a weird script, in this script, I am trying to recreate the unix terminal my way in lua, it seems kinda weird, but its weirdness is what makes it interesting
+
+--This is still a big work in progress though, anyway thanks for viewing this weird lua terminal thing idk man
 local function currentCode()
   local function greet()
     print("hello world")

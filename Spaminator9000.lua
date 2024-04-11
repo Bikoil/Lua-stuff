@@ -1,4 +1,10 @@
---This was made in REPLIT, if you would like to check it out: https://replit.com/@bikoil
+--IMPORTANT--
+--THIS SCRIPT MAY CRASH OLDER DEVICES, IT IS RECOMMENDED TO USE THIS ON A DEVICE THAT CAN HANDLE SPAM IN OUTPUT
+
+
+--this script is finished and has been fully released in the main branch
+
+
 local x = 1
 print("To spam random letters, type 'spam'")
 print("To spam numbers ascendingly, type 'numberspam'")
